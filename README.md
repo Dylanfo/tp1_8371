@@ -12,7 +12,7 @@ MOA is the most popular open source framework for data stream mining, with a ver
 
 http://moa.cms.waikato.ac.nz/
 
-## Using MOA
+## Using MOAa
 
 * [Getting Started](http://moa.cms.waikato.ac.nz/getting-started/) 
 * [Documentation](http://moa.cms.waikato.ac.nz/documentation/)
