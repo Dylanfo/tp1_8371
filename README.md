@@ -14,7 +14,7 @@ http://moa.cms.waikato.ac.nz/
 
 ## Using MOA
 
-* [Getting Started](http://moa.cms.waikato.ac.nz/getting-started/) l
+* [Getting Started](http://moa.cms.waikato.ac.nz/getting-started/) 
 * [Documentation](http://moa.cms.waikato.ac.nz/documentation/)
 * [About MOA](http://moa.cms.waikato.ac.nz/details/)
 
