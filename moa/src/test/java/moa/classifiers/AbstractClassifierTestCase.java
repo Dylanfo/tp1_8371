@@ -347,7 +347,7 @@ extends MoaTestCase {
 		for (i = 0; i < output.length; i++)
 			outputFiles[i] = new TmpFile(output[i]);
 		regression = m_Regression.compare(outputFiles);
-		assertTrue(true);
+		assertNull("Ouput differs:\n" + regression, regression);
 
 		// remove output
 		for (i = 0; i < output.length; i++)
