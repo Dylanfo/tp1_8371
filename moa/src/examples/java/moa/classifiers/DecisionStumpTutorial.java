@@ -114,6 +114,8 @@ public class DecisionStumpTutorial extends AbstractClassifier implements MultiCl
 
 	public void getModelDescription(StringBuilder out, int indent) {
 	}
+	
+	//lol
 
 	protected moa.core.Measurement[] getModelMeasurementsImpl() {
 		return null;
